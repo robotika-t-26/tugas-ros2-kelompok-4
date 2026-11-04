@@ -85,3 +85,12 @@ Kanvas turtlesim berukuran terbatas (koordinat sekitar $0.0$ hingga $11.0$):
    ```bash
    ros2 launch <nama_package> relay.launch.py
    ```
+---
+
+### How to run
+```bash
+cd ~/ros2_ws
+colcon build
+source install/setup.bash
+ros2 launch digit_relay relay.launch.py
+```
