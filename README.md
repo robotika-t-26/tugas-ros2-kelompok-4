@@ -94,3 +94,12 @@ colcon build
 source install/setup.bash
 ros2 launch digit_relay relay.launch.py
 ```
+
+---
+
+### Output
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/edb12ba1-2c89-451a-93ff-549c6358acfa" width="45%" alt="Output Bagian 1" />
+  <img src="https://github.com/user-attachments/assets/a06bdced-c099-4677-8822-5cd4b860cc49" width="45%" alt="Output Bagian 2" />
+</p>
+
